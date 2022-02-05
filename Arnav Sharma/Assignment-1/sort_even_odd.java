@@ -10,7 +10,7 @@ public class sort_even_odd {
                 System.out.print(arr[i] + " ");
             }
             arr = separateEvenOdd(arr);
-            System.out.println("nArray after separating even and odd numbers : ");
+            System.out.println("Array after separating even and odd numbers : ");
             for (int i = 0; i < arr.length; i++) {
                 System.out.print(arr[i] + " ");
             }
